@@ -1,0 +1,6 @@
+
+print "wworld"
+print "hello world"
+
+print "newline"
+
